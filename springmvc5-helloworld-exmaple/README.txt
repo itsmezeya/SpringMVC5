@@ -17,4 +17,5 @@ Build + Deploy + Run an application
 ------------------------------
 How to run application.
 1. Maven plugin already added to pom.xml
-2.  Right click project--> Run as -->Maven Build -->(maven goal) tomcat7:run 
+2. Right click project--> Run as -->Maven Build -->(maven goal) tomcat7:run
+3. From browser hit -->  localhost:8080/spring-mvc/helloworld
